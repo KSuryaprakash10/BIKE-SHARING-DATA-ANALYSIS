@@ -6,7 +6,7 @@ SELECT *
     FROM bike_share_yr_1)
 
 
-SELECT 
+SELECT
 dteday,
 season,
 cte.yr,
